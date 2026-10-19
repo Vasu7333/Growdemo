@@ -1,0 +1,20 @@
+{
+"name": "Growsell",
+  "short_name": "Growsell",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8efae4",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczM6sZ8KrZqoyDXyDO91yPEts_HYYwws0jRFW3zwbvVevTd11gfa_zWh2m4chjsabW5g7YPlSap_rx_NOe-E5-awNX1tqR6d8hWpOwNtzajU6AJdSL4=s192-p-k",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczMQe6me-TVU6gsK7OuP1bmt0VfBHmpvkFIObEwMJjyUevzbg6kcDfCU5ev46GGQi5K-A96whVNmhWr9XnP3OzX96h3b_0aWaHaj5J1U9GkJplDC5QE=w2400",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
